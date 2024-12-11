@@ -23,3 +23,4 @@ This is a traditional snake game written using Python and the curses library. Th
  3. Run the game using the following command:
 ```bash
 python main.py
+
